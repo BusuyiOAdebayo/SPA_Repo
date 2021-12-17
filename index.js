@@ -237,7 +237,7 @@ function addEventListeners(st) {
     );
 
   // event listener for the the photo form
-  if (st.view === "Register") {
+  if (st.view === "Form") {
     document.querySelector("form").addEventListener("submit", event => {
       event.preventDefault();
       // convert HTML elements to Array

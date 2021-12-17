@@ -2,7 +2,7 @@
 
 export default () => html`
   <footer>
-    &copy; 2021 <a href="https://savvycoders.com/">Savvy Coders Example SPA</a>
+    &copy; 2021 <a href="https://savvycoders.com/">Savvy Coders Example Stateless SPA</a>
   </footer>
 `;*/
 
@@ -11,6 +11,7 @@ import html from "html-literal";
 
 export default () => html`
   <footer>
-    &copy; 2021 <a href="https://savvycoders.com/">Savvy Coders Example SPA</a>
+    &copy; 2021
+    <a href="https://savvycoders.com/">Savvy Coders Example State-Driven SPA</a>
   </footer>
 `;

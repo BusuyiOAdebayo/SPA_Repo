@@ -32,7 +32,7 @@ export default () => html`
 import html from "html-literal";
 
 export default () => html`
-  <form id="register" method="POST" action="">
+  <form id="form" method="POST" action="">
     <div>
       <label for="url">Photo URL:</label>
       <input type="text" name="url" id="url" placeholder="Enter Photo URL" />

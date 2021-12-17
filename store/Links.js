@@ -1,3 +1,4 @@
+// Acting as an aggregator
 /*export default [
   { title: "Home", text: "Home" },
   { title: "Gallery", text: "Gallery" },
@@ -10,6 +11,6 @@ export default [
   { title: "Home", text: "Home" },
   { title: "Bio", text: "Bio" },
   { title: "Gallery", text: "Gallery" },
-  { title: "Register", text: "Register" },
+  { title: "Form", text: "Form" },
   { title: "Pizza", text: "Pizza" }
 ];

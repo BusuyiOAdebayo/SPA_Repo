@@ -2,7 +2,7 @@
 
 export default () => html`
   <header>
-    <h1>Savvy Coders Example SPA</h1>
+    <h1>Savvy Coders Example Stateless SPA</h1>
   </header>
 `;*/
 
@@ -11,6 +11,6 @@ import html from "html-literal";
 
 export default st => html`
   <header>
-    <h1>Savvy Coders Example SPA ${st.header}</h1>
+    <h1>Savvy Coders Example State-Driven SPA ${st.header}</h1>
   </header>
 `;
