@@ -201,8 +201,8 @@ import dotenv from "dotenv";
 dotenv.config();
 
 // 2. DECLARE ROUTER
-//const router = new Navigo(window.location.origin);
-const router = new Navigo("/");
+const router = new Navigo(window.location.origin);
+// const router = new Navigo("/");
 
 //Move router to the end AND add Router.Hooks
 
