@@ -25,7 +25,7 @@ export default () => html`
   </nav>
 `;*/
 
-// State-Driven SPA
+// STATE-DRIVEN SPA
 import html from "html-literal";
 
 export default links => html`

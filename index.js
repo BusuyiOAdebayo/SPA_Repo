@@ -125,12 +125,12 @@ function addEventListeners() {
   PrintFormOnSubmit(form);
 }*/
 
-// State-Driven SPA
+// STATE-DRIVEN SPA
 /*import { Header, Nav, Main, Footer } from "./components";
 import * as state from "./store";
 import Navigo from "navigo";
 import { capitalize } from "lodash";
-
+// const router = new Navigo(window.location.origin);
 const router = new Navigo("/");
 
 router
@@ -193,10 +193,11 @@ function addEventListeners(st) {
 // 1. IMPORT STATEMENTS
 import { Header, Nav, Main, Footer } from "./components";
 import * as state from "./store";
-import axios from "axios";
-
 import Navigo from "navigo";
 import { capitalize } from "lodash";
+
+// Added due to WEATHER-MAP API
+import axios from "axios";
 import dotenv from "dotenv";
 dotenv.config();
 

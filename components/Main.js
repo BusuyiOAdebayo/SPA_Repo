@@ -5,7 +5,7 @@ export default () => html`
   ${views["Register"]()}
 `;*/
 
-// State-Driven SPA
+// STATE-DRIVEN SPA
 import html from "html-literal";
 import * as views from "./views";
 

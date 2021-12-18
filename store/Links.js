@@ -7,6 +7,7 @@
 ];
 */
 
+// STATE-DRIVEN SPA WITH PIZZA
 export default [
   { title: "Home", text: "Home" },
   { title: "Bio", text: "Bio" },

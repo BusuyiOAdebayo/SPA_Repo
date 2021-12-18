@@ -6,7 +6,7 @@ export default () => html`
   </header>
 `;*/
 
-// State-Driven SPA
+// STATE-DRIVEN SPA
 import html from "html-literal";
 
 export default st => html`
