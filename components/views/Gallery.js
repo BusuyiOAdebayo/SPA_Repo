@@ -4,7 +4,7 @@ export default () => html`
   <section id="gallery"></section>
 `;*/
 
-// State-Driven SPA
+// STATE-DRIVEN SPA
 import html from "html-literal";
 
 export default st => html`
