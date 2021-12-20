@@ -1,10 +1,5 @@
-/*export default {
-  header: "My Gallery Photos",
+export default {
+  header: "My Gallery Photos Page",
   view: "Gallery",
   pictures: []
-};
-*/
-export default {
-  header: ": My Gallery Photos Page",
-  view: "Gallery"
 };
