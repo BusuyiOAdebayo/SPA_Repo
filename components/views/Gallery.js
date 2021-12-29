@@ -32,7 +32,7 @@ export default st => html`
 */
 
 /*
-From KE-N and CC
+From KE-N
 import html from "html-literal";
 
 export default () => html`
@@ -41,7 +41,7 @@ export default () => html`
 */
 
 /*
-From JH: Shows all the pictures
+From JH: Shows all the pictures. Pi
 import html from "html-literal";
 
 export default st => html`
