@@ -57,7 +57,6 @@ app.use(cors);
 app.use(express.json());
 app.use(logging);
 
-// app.use("/status", pizzas);
 app.use("/pizzas", pizzas);
 // Handle the request with HTTP GET method from http://localhost:4040/status
 app.get("/status", (request, response) => {
